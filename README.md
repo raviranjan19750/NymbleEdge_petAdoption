@@ -1,16 +1,30 @@
-# pet_adoption
+# Pet Adoption
 
-A new Flutter project.
+Find your next best freind by adopting a pet today !!
 
-## Getting Started
+## General requiremnets
+  - app has support for dark theme
+  - app has hero animation
+  - used cubit for state management
+  - attractive & interactive UI
+  - clean code lines have been followed
+  
+ ### Light Theme
+  <p float="left">
+  <img src="project_snap/ss1.png" width="200" />
+  <img src="project_snap/ss2.png" width="200" />
+  <img src="project_snap/ss3.png" width="200" />
+   <img src="project_snap/ss4.png" width="200" />
+</p>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+ ### Dark Theme
+  <p float="left">
+  <img src="project_snap/ss5.png" width="200" />
+  <img src="project_snap/ss6.png" width="200" />
+  <img src="project_snap/ss7.png" width="200" />
+   <img src="project_snap/ss8.png" width="200" />
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Walkthrough
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
