@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Buddy",
+    "age": 3,
+    "price": 150,
+    "imageURL": "assets/icons/dog19.jpg",
+    "id": 1,
+    "isAdopted": false,
+    "timeStamp": 0
+  },
+  {
+    "name": "Charlie",
+    "age": 2,
+    "price": 100,
+    "imageURL": "assets/icons/dog20.jpg",
+    "id": 2,
+    "isAdopted": false,
+    "timeStamp": 0
+  },
+  {
+    "name": "Daisy",
+    "age": 1,
+    "price": 200,
+    "imageURL": "assets/icons/dog15.jpg",
+    "id": 3,
+    "isAdopted": false,
+    "timeStamp": 0
+  },
+  {
+    "name": "Max",
+    "age": 5,
+    "price": 75,
+    "imageURL": "assets/icons/dog16.jpg",
+    "id": 4,
+    "isAdopted": false,
+    "timeStamp": 0
+  },
+  {
+    "name": "Bella",
+    "age": 4,
+    "price": 120,
+    "imageURL": "assets/icons/dog17.jpg",
+    "id": 5,
+    "isAdopted": false,
+    "timeStamp": 0
+  },
+  {
+    "name": "Rocky",
+    "age": 2,
+    "price": 100,
+    "imageURL": "assets/icons/dog18.jpg",
+    "id": 6,
+    "isAdopted": false,
+    "timeStamp": 0
+  },
+  {
+    "name": "Lucy",
+    "age": 3,
+    "price": 180,
+    "imageURL": "assets/icons/dog19.jpg",
+    "id": 7,
+    "isAdopted": false,
+    "timeStamp": 0
+  },
+  {
+    "name": "Toby",
+    "age": 4,
+    "price": 90,
+    "imageURL": "assets/icons/dog20.jpg",
+    "id": 8,
+    "isAdopted": false,
+    "timeStamp": 0
+  },
+  {
+    "name": "Luna",
+    "age": 1,
+    "price": 250,
+    "imageURL": "assets/icons/dog15.jpg",
+    "id": 9,
+    "isAdopted": false,
+    "timeStamp": 0
+  },
+  {
+    "name": "Oscar",
+    "age": 6,
+    "price": 60,
+    "imageURL": "assets/icons/dog16.jpg",
+    "id": 10,
+    "isAdopted": false,
+    "timeStamp": 0
+  },
+  {
+    "name": "Molly",
+    "age": 2,
+    "price": 135,
+    "imageURL": "assets/icons/dog17.jpg",
+    "id": 11,
+    "isAdopted": false,
+    "timeStamp": 0
+  },
+  {
+    "name": "Buddy Rex",
+    "age": 3,
+    "price": 150,
+    "imageURL": "assets/icons/dog18.jpg",
+    "id": 12,
+    "isAdopted": false,
+    "timeStamp": 0
+  },
+  {
+    "name": "Charlie Swan",
+    "age": 2,
+    "price": 100,
+    "imageURL": "assets/icons/dog19.jpg",
+    "id": 13,
+    "isAdopted": false,
+    "timeStamp": 0
+  },
+  {
+    "name": "Daisy Swan",
+    "age": 1,
+    "price": 200,
+    "imageURL": "assets/icons/dog20.jpg",
+    "id": 14,
+    "isAdopted": false,
+    "timeStamp": 0
+  },
+  {
+    "name": "Max Bupa",
+    "age": 5,
+    "price": 75,
+    "imageURL": "assets/icons/dog15.jpg",
+    "id": 15,
+    "isAdopted": false,
+    "timeStamp": 0
+  },
+  {
+    "name": "Bel",
+    "age": 4,
+    "price": 120,
+    "imageURL": "assets/icons/dog16.jpg",
+    "id": 16,
+    "isAdopted": false,
+    "timeStamp": 0
+  },
+  {
+    "name": "Rocky Zed",
+    "age": 2,
+    "price": 100,
+    "imageURL": "assets/icons/dog17.jpg",
+    "id": 17,
+    "isAdopted": false,
+    "timeStamp": 0
+  },
+  {
+    "name": "Lucifer",
+    "age": 3,
+    "price": 180,
+    "imageURL": "assets/icons/dog18.jpg",
+    "id": 18,
+    "isAdopted": false,
+    "timeStamp": 0
+  },
+  {
+    "name": "Diesel",
+    "age": 4,
+    "price": 90,
+    "imageURL": "assets/icons/dog19.jpg",
+    "id": 19,
+    "isAdopted": false,
+    "timeStamp": 0
+  },
+  {
+    "name": "Lunar",
+    "age": 1,
+    "price": 250,
+    "imageURL": "assets/icons/dog20.jpg",
+    "id": 20,
+    "isAdopted": false,
+    "timeStamp": 0
+  }
+]
