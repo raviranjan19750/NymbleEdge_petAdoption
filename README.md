@@ -27,4 +27,7 @@ Find your next best freind by adopting a pet today !!
 </p>
 
 ### Walkthrough
+ <p float="left">
+  <img src="project_snap/rc.gif" width="200" />
+</p>
 
