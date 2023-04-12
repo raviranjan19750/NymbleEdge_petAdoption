@@ -3,6 +3,7 @@
 Find your next best freind by adopting a pet today !!
 
 ## General requiremnets
+  - Domain Driven Developement Architecture has been followed
   - app has support for dark theme
   - app has hero animation
   - used cubit for state management
