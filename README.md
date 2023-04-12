@@ -4,11 +4,11 @@ Find your next best freind by adopting a pet today !!
 
 ## General requiremnets
   - Domain Driven Developement Architecture has been followed
-  - app has support for dark theme
-  - app has hero animation
-  - used cubit for state management
-  - attractive & interactive UI
-  - clean code lines have been followed
+  - App has support for dark theme
+  - App has hero animation
+  - Used cubit for state management
+  - Attractive & interactive UI
+  - Clean code lines have been followed
   
  ### Light Theme
   <p float="left">
